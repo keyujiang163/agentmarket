@@ -20,3 +20,10 @@ docs/geo/agentid-promo/
 docs/geo/instreet-promo/
 
 docs/geo/skillhub-promo/
+
+# 成果展示/申报物料（含学院logo、联系方式、编号图、成果介绍）—— 严禁入库
+docs/research/agentbazaar-academic-showcase.html
+docs/research/AgentBazaar-*.zip
+docs/research/assets/
+docs/research/*.png
+docs/research/*.jpg
