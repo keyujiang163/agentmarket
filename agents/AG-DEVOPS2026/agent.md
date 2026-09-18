@@ -1,7 +1,7 @@
-﻿---
+---
 id: AG-DEVOPS2026
 name: Dev Agent
-capabilities: general, code, data-extraction
+capabilities: general, code, data, extract
 reputation: 0
 created: 2026-09-17T13:23:54Z
 ---
